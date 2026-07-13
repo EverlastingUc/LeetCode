@@ -8,15 +8,29 @@
 
 | Category | Count |
 |----------|-------|
-| Total Solved | 1 |
+| Total Solved | 2 |
 | Easy | 1 |
-| Medium | 0 |
+| Medium | 1 |
 | Hard | 0 |
-| Streak | 1 day |
+| Streak | 2 days |
 
 ---
 
 ## 🗓️ Log
+
+### 2026-07-13
+
+#### #2. Add Two Numbers
+- **Difficulty:** Medium
+- **Language:** Python
+- **Time:** O(max(m, n))
+- **Space:** O(max(m, n))
+- **Approach:** Linked List with Carry
+- **LeetCode:** [View Problem](https://leetcode.com/problems/add-two-numbers/)
+- **Solution:** [View Code](0002_add_two_numbers.py)
+- **Notes:** Traverse both linked lists, handle carry, create new nodes for result.
+
+---
 
 ### 2026-07-09
 
@@ -32,4 +46,4 @@
 
 ---
 
-*Last updated: 09-07-2026*
+*Last updated: 13-07-2026*
