@@ -8,15 +8,29 @@
 
 | Category | Count |
 |----------|-------|
-| Total Solved | 2 |
-| Easy | 1 |
+| Total Solved | 3 |
+| Easy | 2 |
 | Medium | 1 |
 | Hard | 0 |
-| Streak | 2 days |
+| Streak | 1 days |
 
 ---
 
 ## 🗓️ Log
+
+### 2026-07-15
+
+#### #3658. GCD of Odd and Even Sums
+- **Difficulty:** Easy
+- **Language:** Python
+- **Time:** O(1)
+- **Space:** O(1)
+- **Approach:** Simple return
+- **LeetCode:** [View Problem](https://leetcode.com/problems/gcd-of-odd-and-even-sums/)
+- **Solution:** [View Code](3658_gcd_of_odd_and_even_sums.py)
+- **Notes:** Returns n as the result.
+
+---
 
 ### 2026-07-13
 
@@ -46,4 +60,4 @@
 
 ---
 
-*Last updated: 13-07-2026*
+*Last updated: 15-07-2026*
