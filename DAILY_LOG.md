@@ -12,11 +12,25 @@
 | Easy | 2 |
 | Medium | 1 |
 | Hard | 0 |
-| Streak | 1 days |
+| Streak | 2 |
 
 ---
 
 ## 🗓️ Log
+
+### 2026-07-17
+
+#### #1. Two Sum (JavaScript)
+- **Difficulty:** Easy
+- **Language:** JavaScript
+- **Time:** O(N)
+- **Space:** O(N)
+- **Approach:** Hash Map
+- **LeetCode:** [View Problem](https://leetcode.com/problems/two-sum/)
+- **Solution:** [View Code](0001_two_sum.js)
+- **Notes:** Added JavaScript version using Map. Already solved in Python on 09-07-2026.
+
+---
 
 ### 2026-07-15
 
@@ -48,7 +62,7 @@
 
 ### 2026-07-09
 
-#### #1. Two Sum
+#### #1. Two Sum (Python)
 - **Difficulty:** Easy
 - **Language:** Python
 - **Time:** O(N)
@@ -60,4 +74,4 @@
 
 ---
 
-*Last updated: 15-07-2026*
+*Last updated: 17-07-2026*
