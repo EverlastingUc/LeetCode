@@ -4,11 +4,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Progress-3%20Solved-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Progress">
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&color=3776AB&labelColor=0a0a1a" alt="Language">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a1a" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0a0a1a" alt="JavaScript">
   <img src="https://img.shields.io/badge/Easy-2-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Easy">
   <img src="https://img.shields.io/badge/Medium-1-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Medium">
   <img src="https://img.shields.io/badge/Hard-0-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Hard">
-  <img src="https://img.shields.io/badge/Streak-1-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Streak">
+  <img src="https://img.shields.io/badge/Streak-1%20day-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="Streak">
   <img src="https://img.shields.io/badge/License-MIT-0ff?style=flat-square&color=0ff&labelColor=0a0a1a" alt="License">
 </p>
 
@@ -22,17 +23,17 @@
 | Easy | 2 |
 | Medium | 1 |
 | Hard | 0 |
-| Streak | 1 |
+| Streak | 1 day |
 
 ---
 
 ## 🗓️ Solutions
 
-| # | Problem | Difficulty | Solution |
-|---|---------|------------|----------|
-| 0001 | Two Sum | Easy | [1_two_sum.py](1_two_sum.py) |
-| 0002 | Add Two Numbers | Medium | [2_add_two_numbers.py](2_add_two_numbers.py) |
-| 3658 | GCD of Odd and Even Sums | Easy | [3658_gcd_of_odd_and_even_sums.py](3658_gcd_of_odd_and_even_sums.py) |
+| # | Problem | Difficulty | Solutions |
+|---|---------|------------|-----------|
+| 0001 | Two Sum | Easy | [Python](0001_two_sum.py) / [JavaScript](0001_two_sum.js) |
+| 0002 | Add Two Numbers | Medium | [Python](0002_add_two_numbers.py) |
+| 3658 | GCD of Odd and Even Sums | Easy | [Python](3658_gcd_of_odd_and_even_sums.py) |
 
 ---
 
