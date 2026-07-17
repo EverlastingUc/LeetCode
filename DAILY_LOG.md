@@ -8,15 +8,29 @@
 
 | Category | Count |
 |----------|-------|
-| Total Solved | 3 |
+| Total Solved | 4 |
 | Easy | 2 |
 | Medium | 1 |
-| Hard | 0 |
-| Streak | 2 |
+| Hard | 1 |
+| Streak | 1  |
 
 ---
 
 ## 🗓️ Log
+
+### 2026-07-18
+
+#### #3312. Sorted GCD Pair Queries
+- **Difficulty:** Hard
+- **Language:** Python
+- **Time:** O(mx log mx + queries log mx)
+- **Space:** O(mx)
+- **Approach:** Prefix sum with GCD counting
+- **LeetCode:** [View Problem](https://leetcode.com/problems/sorted-gcd-pair-queries/)
+- **Solution:** [View Code](3312_sorted_gcd_pair_queries.py)
+- **Notes:** Count frequency of numbers, calculate GCD pairs using inclusion-exclusion, build prefix sum for binary search.
+
+---
 
 ### 2026-07-17
 
@@ -74,4 +88,4 @@
 
 ---
 
-*Last updated: 17-07-2026*
+*Last updated: 18-07-2026*
