@@ -23,7 +23,7 @@
 | Easy | 2 |
 | Medium | 1 |
 | Hard | 1 |
-| Streak | 1 day |
+| Streak | 0 Day|
 
 ---
 
