@@ -2,7 +2,7 @@
 
 ## Scope
 
-The target is **1,000 distinct LeetCode problems in total**, not 1,000 per language. The 19 language implementations are an expansion track: use the most suitable language for each problem, then add alternative implementations when they provide meaningful practice.
+The target is **1,000 distinct LeetCode problems in total**, not 1,000 per language. The repository language matrix covers 32 languages and query languages. Use suitable languages across the collection and add alternate ports when they provide meaningful practice. Not every language is supported by LeetCode's judge.
 
 ## Work phases
 
@@ -10,7 +10,8 @@ The target is **1,000 distinct LeetCode problems in total**, not 1,000 per langu
 2. **Core patterns:** arrays, strings, hash maps, two pointers, sliding window, stacks, queues, binary search, linked lists.
 3. **Trees and graphs:** traversal, BSTs, heaps, union-find, topological sorting, shortest paths.
 4. **Advanced patterns:** backtracking, greedy algorithms, dynamic programming, tries, bit manipulation, intervals, mathematics.
-5. **Consolidation:** revisit difficult problems, add missing language ports, improve tests and explanations.
+5. **Language expansion:** idiomatic ports in the planned language set, including Erlang, R, OCaml, F#, Clojure, Julia, Nim, Zig, and SQL where appropriate.
+6. **Consolidation:** revisit difficult problems, add missing language ports, improve tests and explanations.
 
 ## Suggested distribution (planning target)
 
