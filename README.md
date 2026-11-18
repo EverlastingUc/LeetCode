@@ -9,13 +9,13 @@ A structured, multi-language collection of **1,000 unique LeetCode problems**. T
 | Metric | Current |
 |---|---:|
 | Target unique problems | 1,000 |
-| Unique problems with implementations | 14 |
-| Remaining target | 986 |
+| Unique problems with implementations | 34 |
+| Remaining target | 966 |
 | Languages in repository plan | 32 |
-| New problem folders added in this batch | 10 |
-| New language implementations added | 40 |
+| New problem folders added in this batch | 20 |
+| New language implementations added | 80 |
 
-The four pre-existing unique solutions are preserved. Ten additional problems now have implementations in Python, C++, JavaScript, and Java. Implementations are not counted as LeetCode Accepted until submitted and judged.
+The four pre-existing unique solutions are preserved. Thirty additional problems now have implementations in Python, C++, JavaScript, and Java. Implementations are not counted as LeetCode Accepted until submitted and judged.
 
 ## Languages
 
@@ -77,6 +77,26 @@ Only create a language implementation when it is genuinely implemented and revie
 | 58 | Length of Last Word | Easy | String | Python, C++, JavaScript, Java |
 | 66 | Plus One | Easy | Array, Math | Python, C++, JavaScript, Java |
 | 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | Python, C++, JavaScript, Java |
+| 125 | Valid Palindrome | Easy | Two Pointers, String | Python, C++, JavaScript, Java |
+| 136 | Single Number | Easy | Array, Bit Manipulation | Python, C++, JavaScript, Java |
+| 169 | Majority Element | Easy | Array, Boyer-Moore Voting | Python, C++, JavaScript, Java |
+| 217 | Contains Duplicate | Easy | Array, Hash Table | Python, C++, JavaScript, Java |
+| 242 | Valid Anagram | Easy | Hash Table, String | Python, C++, JavaScript, Java |
+| 268 | Missing Number | Easy | Array, Math, Bit Manipulation | Python, C++, JavaScript, Java |
+| 283 | Move Zeroes | Easy | Array, Two Pointers | Python, C++, JavaScript, Java |
+| 344 | Reverse String | Easy | Two Pointers, String | Python, C++, JavaScript, Java |
+| 350 | Intersection of Two Arrays II | Easy | Array, Hash Table, Two Pointers | Python, C++, JavaScript, Java |
+| 387 | First Unique Character in a String | Easy | Hash Table, String | Python, C++, JavaScript, Java |
+| 392 | Is Subsequence | Easy | Two Pointers, String, Dynamic Programming | Python, C++, JavaScript, Java |
+| 704 | Binary Search | Easy | Array, Binary Search | Python, C++, JavaScript, Java |
+| 724 | Find Pivot Index | Easy | Array, Prefix Sum | Python, C++, JavaScript, Java |
+| 1480 | Running Sum of 1D Array | Easy | Array, Prefix Sum | Python, C++, JavaScript, Java |
+| 1672 | Richest Customer Wealth | Easy | Array, Matrix | Python, C++, JavaScript, Java |
+| 1920 | Build Array from Permutation | Easy | Array, Simulation | Python, C++, JavaScript, Java |
+| 1929 | Concatenation of Array | Easy | Array | Python, C++, JavaScript, Java |
+| 2011 | Final Value of Variable After Performing Operations | Easy | Array, String, Simulation | Python, C++, JavaScript, Java |
+| 2114 | Maximum Number of Words Found in Sentences | Easy | Array, String | Python, C++, JavaScript, Java |
+| 2235 | Add Two Integers | Easy | Math | Python, C++, JavaScript, Java |
 
 See [PROGRESS.md](PROGRESS.md) for counts, [LANGUAGES.md](LANGUAGES.md) for the full language matrix, and [ROADMAP.md](ROADMAP.md) for execution phases.
 
