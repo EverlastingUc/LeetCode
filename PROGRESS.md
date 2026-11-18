@@ -5,16 +5,17 @@
 | Metric | Count |
 |---|---:|
 | Target unique problems | 1,000 |
-| Existing unique solutions | 4 |
-| Remaining | 996 |
+| Unique problems with implementations | 14 |
+| Remaining | 986 |
 | Languages in repository plan | 32 |
-| New verified solutions added by project setup | 0 |
+| New problem folders added in this batch | 10 |
+| New language implementations added | 40 |
 
 ## By difficulty
 
 | Difficulty | Existing count | Target |
 |---|---:|---:|
-| Easy | 2 | To be allocated |
+| Easy | 12 | To be allocated |
 | Medium | 1 | To be allocated |
 | Hard | 1 | To be allocated |
 
@@ -22,10 +23,12 @@
 
 | Language | Implementations recorded |
 |---|---:|
-| Python | 3 |
-| JavaScript | 1 |
+| Python | 13 |
+| JavaScript | 11 |
+| C++ | 10 |
+| Java | 10 |
 
-Counts above reflect the four existing unique problems and their currently recorded implementations. The Two Sum solution exists in both Python and JavaScript.
+Counts reflect the four pre-existing problems plus ten new problems. The ten new problems each have Python, C++, JavaScript, and Java implementations. The Two Sum solution also exists in Python and JavaScript.
 
 ## Counting policy
 
@@ -42,3 +45,13 @@ Counts above reflect the four existing unique problems and their currently recor
 | 2 | Add Two Numbers | Medium | Python | Not independently verified here |
 | 3312 | Sorted GCD Pair Queries | Hard | Python | Not independently verified here |
 | 3658 | GCD of Odd and Even Sums | Easy | Python | Not independently verified here |
+| 9 | Palindrome Number | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 13 | Roman to Integer | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 14 | Longest Common Prefix | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 20 | Valid Parentheses | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 26 | Remove Duplicates from Sorted Array | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 27 | Remove Element | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 35 | Search Insert Position | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 58 | Length of Last Word | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 66 | Plus One | Easy | Python, C++, JavaScript, Java | Not submitted here |
+| 121 | Best Time to Buy and Sell Stock | Easy | Python, C++, JavaScript, Java | Not submitted here |
