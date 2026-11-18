@@ -11,14 +11,16 @@ A structured, multi-language collection of **1,000 unique LeetCode problems**. T
 | Target unique problems | 1,000 |
 | Existing unique solutions recorded | 4 |
 | Remaining target | 996 |
-| Languages planned | 19 |
+| Languages in repository plan | 32 |
 | Verified new solutions in this setup commit | 0 |
 
 The four pre-existing root-level solutions are preserved. Counts will only increase when a problem has a real solution file; planned slots and placeholders do not count as solved.
 
 ## Languages
 
-C, C++, C#, Java, JavaScript, TypeScript, Python, Rust, Go, Kotlin, Swift, PHP, Ruby, Dart, Scala, Haskell, Elixir, Lua, and Perl.
+C, C++, C#, Java, JavaScript, TypeScript, Python, Rust, Go, Kotlin, Swift, PHP, Ruby, Dart, Scala, Haskell, Elixir, Lua, Perl, Erlang, R, Objective-C, OCaml, F#, Clojure, Julia, Racket, Common Lisp, Nim, Zig, Crystal, and SQL.
+
+This is a broad project language set, not literally every programming language in existence. LeetCode online-judge support varies by language, version, and problem. Local implementations are not automatically LeetCode Accepted.
 
 Some languages may not be available in LeetCode's online judge for every problem. Language folders are for implementations and local learning; judge acceptance is recorded only when actually confirmed on LeetCode.
 
@@ -65,7 +67,7 @@ Only create a language implementation when it is genuinely implemented and revie
 | 3312 | Sorted GCD Pair Queries | Hard | Number Theory, Sorting | Python |
 | 3658 | GCD of Odd and Even Sums | Easy | Math, Number Theory | Python |
 
-See [PROGRESS.md](PROGRESS.md) for counts and [ROADMAP.md](ROADMAP.md) for the 1,000-problem execution plan.
+See [PROGRESS.md](PROGRESS.md) for counts, [LANGUAGES.md](LANGUAGES.md) for the full language matrix, and [ROADMAP.md](ROADMAP.md) for execution phases.
 
 ## Solution quality rules
 
