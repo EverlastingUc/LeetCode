@@ -1,0 +1,1 @@
+var isAnagram = function(s,t) { if(s.length!==t.length)return false; const c=new Array(26).fill(0); for(const x of s)c[x.charCodeAt(0)-97]++; for(const x of t)if(--c[x.charCodeAt(0)-97]<0)return false; return true; };
