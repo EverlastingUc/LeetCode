@@ -1,8 +1,8 @@
 # Language Matrix
 
-The repository plans to use the following 19 languages. This list describes repository coverage, not a promise that LeetCode's online judge supports every language or every version.
+The repository plan covers **32 languages and query languages**. This is a broad practical set, not every language ever created. LeetCode's online judge does not support all of them; some are intended for local implementations and learning.
 
-| Language | Directory name | Typical file |
+| Language | Directory | Typical file |
 |---|---|---|
 | C | C | solution.c |
 | C++ | Cpp | solution.cpp |
@@ -18,16 +18,30 @@ The repository plans to use the following 19 languages. This list describes repo
 | PHP | PHP | solution.php |
 | Ruby | Ruby | solution.rb |
 | Dart | Dart | solution.dart |
-| Scala | Scala | Solution.scala |
+| Scala | Scala | solution.scala |
 | Haskell | Haskell | solution.hs |
 | Elixir | Elixir | solution.ex |
 | Lua | Lua | solution.lua |
 | Perl | Perl | solution.pl |
+| Erlang | Erlang | solution.erl |
+| R | R | solution.R |
+| Objective-C | ObjectiveC | Solution.m |
+| OCaml | OCaml | solution.ml |
+| F# | FSharp | solution.fs |
+| Clojure | Clojure | solution.clj |
+| Julia | Julia | solution.jl |
+| Racket | Racket | solution.rkt |
+| Common Lisp | CommonLisp | solution.lisp |
+| Nim | Nim | solution.nim |
+| Zig | Zig | solution.zig |
+| Crystal | Crystal | solution.cr |
+| SQL | SQL | solution.sql |
 
-## Rules
+## Implementation policy
 
-- Use conventional extensions and idiomatic code for each language.
-- Keep each implementation self-contained unless the problem explicitly benefits from shared helpers.
-- Do not copy a solution into a language folder and label it implemented without validating syntax and behavior.
+- One problem is counted once, regardless of the number of language ports.
+- Use idiomatic syntax and conventional file extensions.
+- Do not add empty files or copied code merely to claim language coverage.
 - Record compiler/interpreter version and test command when relevant.
-- LeetCode judge support varies; local execution does not imply online-judge acceptance.
+- Local execution does not imply online-judge support or an Accepted verdict.
+- Add a language implementation only after checking its syntax and behavior.
