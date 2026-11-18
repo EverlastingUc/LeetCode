@@ -7,6 +7,7 @@
 | Target unique problems | 1,000 |
 | Existing unique solutions | 4 |
 | Remaining | 996 |
+| Languages in repository plan | 32 |
 | New verified solutions added by project setup | 0 |
 
 ## By difficulty
