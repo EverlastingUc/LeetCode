@@ -22,7 +22,7 @@ Scan the array from left to right. For each value, compute its complement relati
 
 ## Implementations
 
-- [Python](../../1_two_sum.py)
-- [JavaScript](../../1_two_sum.js)
+- [Python](../../0001_two_sum.py)
+- [JavaScript](../../0001_two_sum.js)
 
 These links point to the preserved original files. Move or duplicate implementations into language subfolders only after validating the canonical versions.
