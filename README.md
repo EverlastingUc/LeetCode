@@ -32,9 +32,9 @@ Some languages may not be available in LeetCode's online judge for every problem
 ├── CONTRIBUTING.md
 ├── LANGUAGES.md
 ├── DAILY_LOG.md
-├── 1_two_sum.py                 # preserved legacy solutions
-├── 1_two_sum.js
-├── 2_add_two_numbers.py
+├── 0001_two_sum.py              # preserved legacy solutions
+├── 0001_two_sum.js
+├── 0002_add_two_numbers.py
 ├── 3312_sorted_gcd_pair_queries.py
 ├── 3658_gcd_of_odd_and_even_sums.py
 └── Problems/
@@ -60,7 +60,7 @@ Only create a language implementation when it is genuinely implemented and revie
 
 | LeetCode ID | Problem | Difficulty | Topic | Implementations |
 |---:|---|---|---|---|
-| 1 | Two Sum | Easy | Array, Hash Table | Python, JavaScript |
+| 1 | Two Sum | Easy | Array, Hash Table | [Python](Problems/0001-two-sum/Python/solution.py), [JavaScript](Problems/0001-two-sum/JavaScript/solution.js) |
 | 2 | Add Two Numbers | Medium | Linked List, Math | Python |
 | 3312 | Sorted GCD Pair Queries | Hard | Number Theory, Sorting | Python |
 | 3658 | GCD of Odd and Even Sums | Easy | Math, Number Theory | Python |
