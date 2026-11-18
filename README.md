@@ -9,12 +9,13 @@ A structured, multi-language collection of **1,000 unique LeetCode problems**. T
 | Metric | Current |
 |---|---:|
 | Target unique problems | 1,000 |
-| Existing unique solutions recorded | 4 |
-| Remaining target | 996 |
+| Unique problems with implementations | 14 |
+| Remaining target | 986 |
 | Languages in repository plan | 32 |
-| Verified new solutions in this setup commit | 0 |
+| New problem folders added in this batch | 10 |
+| New language implementations added | 40 |
 
-The four pre-existing root-level solutions are preserved. Counts will only increase when a problem has a real solution file; planned slots and placeholders do not count as solved.
+The four pre-existing unique solutions are preserved. Ten additional problems now have implementations in Python, C++, JavaScript, and Java. Implementations are not counted as LeetCode Accepted until submitted and judged.
 
 ## Languages
 
@@ -66,6 +67,16 @@ Only create a language implementation when it is genuinely implemented and revie
 | 2 | Add Two Numbers | Medium | Linked List, Math | Python |
 | 3312 | Sorted GCD Pair Queries | Hard | Number Theory, Sorting | Python |
 | 3658 | GCD of Odd and Even Sums | Easy | Math, Number Theory | Python |
+| 9 | Palindrome Number | Easy | Math | Python, C++, JavaScript, Java |
+| 13 | Roman to Integer | Easy | Hash Table, String | Python, C++, JavaScript, Java |
+| 14 | Longest Common Prefix | Easy | String, Trie | Python, C++, JavaScript, Java |
+| 20 | Valid Parentheses | Easy | String, Stack | Python, C++, JavaScript, Java |
+| 26 | Remove Duplicates from Sorted Array | Easy | Array, Two Pointers | Python, C++, JavaScript, Java |
+| 27 | Remove Element | Easy | Array, Two Pointers | Python, C++, JavaScript, Java |
+| 35 | Search Insert Position | Easy | Array, Binary Search | Python, C++, JavaScript, Java |
+| 58 | Length of Last Word | Easy | String | Python, C++, JavaScript, Java |
+| 66 | Plus One | Easy | Array, Math | Python, C++, JavaScript, Java |
+| 121 | Best Time to Buy and Sell Stock | Easy | Array, Dynamic Programming | Python, C++, JavaScript, Java |
 
 See [PROGRESS.md](PROGRESS.md) for counts, [LANGUAGES.md](LANGUAGES.md) for the full language matrix, and [ROADMAP.md](ROADMAP.md) for execution phases.
 
